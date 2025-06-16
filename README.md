@@ -61,7 +61,7 @@ See [spotify_2023.ipynb](movie/notebook/spotify_2023.ipynb)
 
 ### 📊 Spotify dashboard
 
-![image]()
+** *Currently at work* **
 
 <a href="#сontent-and-navigation" style="
   display: inline-block;
