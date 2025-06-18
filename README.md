@@ -6,11 +6,10 @@ I would like to show the skills of interaction and segmentation of several datas
 ## Сontent and navigation
 
 1. [Overall information](#overall-information)
-2. [Spotify musica project](#-spotify-music)  
+2. [Spotify music](#-spotify-music)  
     - 2.1. [Spotify dataset](#-spotify-data)
     - 2.2. [Spotify analysis](#-spotify-analysis)
-    - 2.3. [Spotify dashboard](#-spotify-dashboard)
-3. [Job market project](#-job-market)
+3. [Job market](#-job-market)
     - 3.1. [Job market dataset](#-job-market-data)
     - 3.2. [Job market analysis](#-job-market-analysis)
     - 3.3. [Job market dashboard](#-job-market-dashboard)
@@ -18,6 +17,10 @@ I would like to show the skills of interaction and segmentation of several datas
     - 4.1. [Letterbox dataset](#-movie-ratings-data)
     - 4.2. [Letterbox analysis](#-movie-ratings-analysis)
     - 4.3. [Letterbox dashboard](#-movie-ratings-dashboard)
+5. [Superstore](#-superstore)
+    - 5.1. [Superstore dataset](#-superstore-data)
+    - 5.2. [Superstore analysis](#-superstore-analysis)
+    - 5.3. [Superstore dashboard](#-superstore-dashboard)
 
 ---
 
@@ -48,7 +51,7 @@ You just need to change the name of the required file with the dataset.
 
 ## 🎧 Spotify music
 
-> A project for analyzing spotify most popular music dataset using Python (in Colab), and Google Sheets for visualization.
+> A project for analyzing spotify most popular music dataset using Python (in Colab).
 
 ### 📂 Spotify data
 
@@ -59,9 +62,9 @@ Cleaned data: [Spotify Songs 2023 data in Google Sheets](https://docs.google.com
 
 See [spotify_2023.ipynb](movie/notebook/spotify_2023.ipynb)
 
-### 📊 Spotify dashboard
+#### Dashboard note
 
-** *Currently at work* **
+At the end of my work with the Spotify dataset, I realized that the relationships and insights in this data are best visualized using the custom charts I created in Google Colab. The dataset's structure and the nature of its dependencies are more clearly and flexibly represented through Python-based visualizations, rather than with PowerBI dashboards. Therefore, to better demonstrate my skills in dashboard creation and to meet the practice requirements, I decided to select an additional dataset and build a dashboard for it. For this purpose, I chose the popular Superstore dataset, which is well-suited for business analytics and dashboarding. You can find the Superstore dataset here: [Superstore](#-superstore).
 
 <a href="#сontent-and-navigation" style="
   display: inline-block;
@@ -132,6 +135,32 @@ See [movie_analysis.ipynb](movie/notebook/movie_analysis.ipynb)
 Looker Studio: interactive dashboard with filters  
 
 ![image](https://github.com/user-attachments/assets/5e276fcd-c190-48ad-b74b-3a87e3fc32c4)
+
+<a href="#сontent-and-navigation" style="
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+">⬆ Go back to content summary</a>
+
+## 🛒 Superstore
+
+> Since visualizing the Spotify dataset with a dashboard was not optimal for demonstrating all required skills, I decided to select an additional dataset that is better suited for dashboard creation and business analytics.
+
+### 📂 Superstore data
+
+Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Cleaned data: [Superstore Dataset in Google Sheets]()
+
+### 📓 Superstore analysis
+
+See [superstore.ipynb](/superstore/notebook/superstore.ipynb)
+
+### 📊 Superstore dashboard
+
+** *Currently at work* **
 
 <a href="#сontent-and-navigation" style="
   display: inline-block;
