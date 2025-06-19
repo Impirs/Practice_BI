@@ -160,7 +160,9 @@ See [superstore.ipynb](/superstore/notebook/superstore.ipynb)
 
 ### 📊 Superstore dashboard
 
-** *Currently at work* **
+![image](https://github.com/user-attachments/assets/3346821b-280d-4f25-a362-8689bf0048d6)
+
+** *Other slides are currently at work* **
 
 <a href="#сontent-and-navigation" style="
   display: inline-block;
